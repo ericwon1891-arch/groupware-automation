@@ -1,0 +1,19 @@
+id: RMA-261104-01
+distributor: JBS
+end_customer: ALSOK 니가타
+sheet_rows: [26, 27]
+received: 2026-11-04
+items:
+  - {model: P3000D, sn: P100DHFUSLF0408N, symptom: 통전되지 않음, result: PCB 불량, warranty: 보증기간 내, action: 신품교체(무상)}
+  - {model: P3000D, sn: P100DHFUSLF0401N, symptom: "통전은 되나 데이터 전송 불가(DOCK 설정 화면 진입 불가)", result: PCB 불량, warranty: 보증기간 내, action: 신품교체(무상)}
+attachments:
+  - {name: RMA_일본 JBS_261120.docx, gmail_msg: 1a1f811c8f009e7a, note: 11/20 17:28 정정 재송부본}
+  - {name: "생산/품질팀 점검 결과 메일", gmail_msg: 1a205f3e7ed020bd}
+approval_type: 신품교체
+status: groupware_saved
+groupware:
+  doc: 임시저장함 26/11/24 11:42 (결재선 2026-732 기준)
+  duplicate_to_delete: 임시저장함 26/11/24 11:39 (Luna 포함 구 결재선)
+open_items: [단가, 금액, 발송비, 출고방법, 기안일, 중복 임시저장본 삭제]
+related:
+  same_mail_thread: 카메라 P3000A 3건(보증 만료, 유상 협의) → 별도 건으로 분리 필요

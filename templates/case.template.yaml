@@ -1,0 +1,13 @@
+id: RMA-YYMMDD-NN
+distributor: JBS
+end_customer:
+sheet_rows: []
+received: YYYY-MM-DD
+items:
+  - {model: , sn: , symptom: , result: , warranty: , action: }
+attachments:
+  - {name: , gmail_msg: }
+approval_type:          # templates/결재선.yaml 키
+status: 접수
+groupware: {doc: , duplicate_to_delete: }
+open_items: []
