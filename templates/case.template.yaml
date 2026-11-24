@@ -7,7 +7,7 @@ items:
   - {model: , sn: , symptom: , result: , warranty: , action: }
 attachments:
   - {name: , gmail_msg: }
-approval_type:          # templates/결재선.yaml 키
+approval_type:          # templates/approval-lines.yaml 키
 status: 접수
 groupware: {doc: , duplicate_to_delete: }
 open_items: []
