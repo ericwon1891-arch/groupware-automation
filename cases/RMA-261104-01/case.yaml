@@ -15,6 +15,6 @@ status: groupware_saved
 groupware:
   doc: 임시저장함 26/11/24 11:42 (결재선 2026-732 기준)
   duplicate_to_delete: 임시저장함 26/11/24 11:39 (Luna 포함 구 결재선)
-open_items: [단가, 금액, 발송비, 출고방법, 기안일, 한비로 임시저장본에 영업재고 처리 문구 반영]
+open_items: [출고방법, 기안일, 한비로 임시저장본에서 소요 내역(비용) 빼고 영업재고 문구 반영, 2026-732 원문과 양식 대조]
 related:
   same_mail_thread: 카메라 P3000A 3건(보증 만료, 유상 협의) → 별도 건으로 분리 필요
