@@ -7,6 +7,7 @@ items:
   - {model: , sn: , symptom: , result: , warranty: , action: }
 attachments:
   - {name: , gmail_msg: }
+stock: 영업재고   # 신품 교체품 출고 재고 — RMA 신품 교체는 영업재고로 처리
 approval_type:          # templates/approval-lines.yaml 키
 status: 접수
 groupware: {doc: , duplicate_to_delete: }
